@@ -1,4 +1,4 @@
-FROM vektorlab/base:latest
+FROM quay.io/vektorcloud/base:latest
 
 RUN apk add --no-cache redis && \
     mkdir /data && chown redis:redis /data
