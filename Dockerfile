@@ -8,4 +8,4 @@ WORKDIR /data
 
 USER redis
 EXPOSE 6379
-CMD [ "redis-server" ]
+ENTRYPOINT [ "redis-server" ]
