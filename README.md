@@ -15,4 +15,4 @@ docker run -d --name=redis \
            quay.io/vektorcloud/redis:latest
 ```
 
-[circleci]: https://img.shields.io/circleci/project/github/vektorcloud/redis.svg "redis"
+[circleci]: https://img.shields.io/circleci/build/gh/vektorcloud/redis?color=1dd6c9&logo=CircleCI&logoColor=1dd6c9&style=for-the-badge "redis"
