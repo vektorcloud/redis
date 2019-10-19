@@ -1,6 +1,6 @@
 # redis
 
-![circleci][circleci]
+[![circleci][circleci]](https://circleci.com/gh/vektorcloud/redis)
 
 Alpine-based Redis image
 
